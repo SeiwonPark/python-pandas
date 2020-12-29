@@ -39,6 +39,8 @@ DataFrame allows you to store and manipulate tabular data in rows of observation
 
 ## 3. How to Use
 
+* Read / Write files(`.csv`, `.txt`, `.xml`)
+   [https://github.com/SeiwonPark/python-pandas/blob/main/read_write_files.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/read_write_files.ipynb)
 
 
 <br/>   
