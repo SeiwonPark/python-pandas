@@ -39,13 +39,17 @@ DataFrame allows you to store and manipulate tabular data in rows of observation
 
 ## 3. How to Use
 
-* Read / Write files(`.csv`, `.txt`, `.xml`)
+* Read / Write files(`.csv`, `.txt`, `.xml`)   
+  
    [https://github.com/SeiwonPark/python-pandas/blob/main/read_write_files.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/read_write_files.ipynb)
-* Series and Dataframe
+* Series and Dataframe   
+  
    [https://github.com/SeiwonPark/python-pandas/blob/main/series_n_dataframe.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/series_n_dataframe.ipynb)
-* Analyze COVID 19 data(test)
+* Analyze COVID 19 data(test)   
+  
    [https://github.com/SeiwonPark/python-pandas/blob/main/analyze_covid19_data.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/analyze_covid19_data.ipynb)
-* Combine dataframes
+* Combine dataframes   
+  
    [https://github.com/SeiwonPark/python-pandas/blob/main/combine_dataframes.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/combine_dataframes.ipynb)
 
 <br/>   
