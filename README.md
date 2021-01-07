@@ -1,7 +1,14 @@
 # python-pandas
+![GitHub top language](https://img.shields.io/github/languages/top/SeiwonPark/python-pandas?color=orange) 
+[![GitHub license](https://img.shields.io/github/license/SeiwonPark/python-pandas)](https://github.com/SeiwonPark/python-pandas/blob/main/LICENSE)
+
+
 
 **ABSTRACT**    
  This is a study note of Sensor Cloud in Kookmin University about data processing using pandas. 
+
+
+<img src="https://github.com/SeiwonPark/python-pandas/blob/main/images/snapshot.png" width="500">
 
 
 ## 1. What is Pandas?   
@@ -37,20 +44,27 @@ DataFrame allows you to store and manipulate tabular data in rows of observation
 
 <br/>   
 
-## 3. How to Use
+## 3. Files Contained
 
 * Read / Write files(`.csv`, `.txt`, `.xml`)   
   
-   [https://github.com/SeiwonPark/python-pandas/blob/main/read_write_files.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/read_write_files.ipynb)
+    [https://github.com/SeiwonPark/python-pandas/blob/main/read_write_files.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/read_write_files.ipynb)
 * Series and Dataframe   
   
-   [https://github.com/SeiwonPark/python-pandas/blob/main/series_n_dataframe.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/series_n_dataframe.ipynb)
+    [https://github.com/SeiwonPark/python-pandas/blob/main/series_n_dataframe.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/series_n_dataframe.ipynb)
 * Analyze COVID 19 data(test)   
   
-   [https://github.com/SeiwonPark/python-pandas/blob/main/analyze_covid19_data.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/analyze_covid19_data.ipynb)
+    [https://github.com/SeiwonPark/python-pandas/blob/main/analyze_covid19_data.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/analyze_covid19_data.ipynb)
 * Combine dataframes   
   
-   [https://github.com/SeiwonPark/python-pandas/blob/main/combine_dataframes.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/combine_dataframes.ipynb)
+    [https://github.com/SeiwonPark/python-pandas/blob/main/combine_dataframes.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/combine_dataframes.ipynb)
+* Data preprocess
+
+    [https://github.com/SeiwonPark/python-pandas/blob/main/covid19_data_process.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/covid19_data_process.ipynb)
+    [https://github.com/SeiwonPark/python-pandas/blob/main/covid19_data_process2.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/covid19_data_process2.ipynb)
+* Visualize data   
+
+    [https://github.com/SeiwonPark/python-pandas/blob/main/covid19_data_visualize.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/covid19_data_visualize.ipynb)
 
 <br/>   
 
