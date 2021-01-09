@@ -65,6 +65,7 @@ DataFrame allows you to store and manipulate tabular data in rows of observation
 * Visualize data   
 
     [https://github.com/SeiwonPark/python-pandas/blob/main/covid19_data_visualize.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/covid19_data_visualize.ipynb)
+    [https://github.com/SeiwonPark/python-pandas/blob/main/covid19_data_visualize2.ipynb](https://github.com/SeiwonPark/python-pandas/blob/main/covid19_data_visualize2.ipynb)
 
 <br/>   
 
